@@ -1,0 +1,12 @@
+body{
+    color: white;
+}
+.start,#canvas{
+    border:1px white solid;
+}
+#canvas{
+    float: right;
+    margin-right: 10px;
+    height: 600px;
+    width: 700px;
+}
